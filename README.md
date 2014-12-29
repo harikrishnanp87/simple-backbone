@@ -1,4 +1,4 @@
 simple-backbone
 ===============
 
-Simple Backbone - Start your backbone app with simple structure.
+Simple Backbone helps to start your backbone application easily with simple structure.
